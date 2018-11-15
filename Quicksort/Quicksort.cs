@@ -81,7 +81,7 @@ namespace Quicksort
         {
             int[] inputArray = { 10, 3, 4, 55, 23, 1, 8, 20, 18, 15, 21, 7, 20, 20, 20 };
 
-            Quicksort.QuickSort(inputArray, 0, inputArray.Length - 1);
+            QuickSort(inputArray, 0, inputArray.Length - 1);
 
             foreach (int value in inputArray)
             {
