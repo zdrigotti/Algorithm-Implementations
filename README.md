@@ -1,4 +1,4 @@
-# AlgorithmImplementations
+# Algorithm Implementations
 My implementations of common algorithms/data structures in C# including
 * Randomized Quicksort
 * Mergesort
