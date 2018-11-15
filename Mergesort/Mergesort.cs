@@ -68,7 +68,7 @@ namespace Mergesort
         {
             int[] inputArray = { 10, 3, 4, 55, 23, 1, 8, 20, 18, 15, 21, 7, 20, 20, 20 };
 
-            Mergesort.MergeSort(inputArray, 0, inputArray.Length - 1);
+            MergeSort(inputArray, 0, inputArray.Length - 1);
 
             foreach (int value in inputArray)
             {
