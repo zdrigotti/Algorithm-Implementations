@@ -16,7 +16,7 @@ namespace BreadthFirstSearch
         /// <summary>
         /// Adds a new child node
         /// </summary>
-        /// <param name="child"></param>
+        /// <param name="child">Child node to add</param>
         public void AddChild(Node child)
         {
             Children.Add(child);
